@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="MO_Assets" Url="Style Library/spc" RootWebOnly="TRUE">
+    <File Path="MO_Assets\css\SPC.SPOStarter.css" Url="css/SPC.SPOStarter.css" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

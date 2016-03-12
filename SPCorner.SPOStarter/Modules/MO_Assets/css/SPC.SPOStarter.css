@@ -1,0 +1,10 @@
+﻿/* Promoted links scroll fix */
+.cell-margin {
+margin: 10px;
+}.ms-promlink-body {
+position: relative;
+width: 100%;
+height: inherit;
+float: left;
+left: 0px;
+}.ms-promlink-header{display:none;}
